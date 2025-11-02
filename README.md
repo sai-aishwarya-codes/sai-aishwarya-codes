@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sai%20Aishwarya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sai%20Aishwarya%20Reddy%20Devarapalli  &fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
 
 <h3 align="center">💫 AI • ML • Java • Full-Stack Developer 💫</h3>
