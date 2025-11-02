@@ -16,7 +16,7 @@ I specialize in building data-driven systems powered by **Machine Learning**, **
 ---
 
 ### 🧠 Tech Stack & Skills  
-💻 **Languages:** Python • Java • R  • C++
+💻 **Languages:** Python • Java • R  • C++ <br>
 ⚙️ **Frameworks:** Spring Boot • TensorFlow • PyTorch  
 🤖 **Core Domains:** Machine Learning • Deep Learning • Artificial Intelligence  
 🌐 **Version Control:** Git & GitHub  
