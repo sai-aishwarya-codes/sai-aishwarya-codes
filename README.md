@@ -29,9 +29,6 @@ I specialize in building data-driven systems powered by **Machine Learning**, **
 ☁️ **Other Interests:** Data Science • API Development • Cloud Integration  
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=sai-aishwarya-codes&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/sai-aishwarya-codes?style=social)
-![GitHub stars](https://img.shields.io/github/stars/sai-aishwarya-codes?style=social)
 
 ### 🚀 What I’m Currently Exploring  
 - Building **intelligent systems** that bridge AI with real-world software.  
