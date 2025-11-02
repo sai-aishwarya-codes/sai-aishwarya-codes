@@ -36,6 +36,15 @@ Explore my repositories for hands-on AI models, data projects, and full-stack ap
 🔗 **[github.com/sai-aishwarya-codes](https://github.com/sai-aishwarya-codes)**  
 
 ---
+### 🔗 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-aishwarya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Aishwarya-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/sai-aishwarya-codes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-sai--aishwarya--codes-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  </a>
+</p>
 
 ### ✨ Signature  
 > *“Code is where logic meets imagination — I build at that intersection.”*  
