@@ -8,11 +8,10 @@
 ---
 
 ### 👩‍💻 About Me  
-Hi there! I’m **Sai Aishwarya**, a passionate **AI/ML enthusiast and full-stack developer** who loves transforming ideas into intelligent, scalable applications.  
-I specialize in building data-driven systems powered by **Machine Learning**, **Deep Learning**, and robust backend solutions using **Java** and **Spring Boot**.
+Hi there! I’m **Sai Aishwarya**, a passionate **AI/ML enthusiast** who loves transforming ideas into intelligent, scalable applications.  
+I specialize in building data-driven systems powered by **Machine Learning** and **Deep Learning**.  
 
 💡 I believe the best technology lies at the intersection of logic and creativity — turning code into something meaningful and impactful.
-
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -33,12 +32,12 @@ I specialize in building data-driven systems powered by **Machine Learning**, **
 ### 🚀 What I’m Currently Exploring  
 - Building **intelligent systems** that bridge AI with real-world software.  
 - Researching **advanced ML models** for enterprise applications.  
-- Enhancing **full-stack efficiency** through modular design and automation.
+ 
 
 ---
 
 ### 📂 Featured Projects  
-Explore my repositories for hands-on AI models, data projects, and full-stack applications:  
+Explore my repositories for hands-on AI models, data projects:  
 🔗 **[github.com/sai-aishwarya-codes](https://github.com/sai-aishwarya-codes)**  
 
 ---
